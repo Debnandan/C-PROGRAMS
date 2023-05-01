@@ -1,0 +1,142 @@
+1.  write a program to print hello world.
+2.  write a program to print the area of the square.
+3.  Write a program to print the area of the circle.
+4.  write a program to print the area of the rectangle.
+5.  write a program to print the cube of the number using the power function.
+6.  write a program to check whether a given number is divisible by 2 or not.
+7   a.  write a program to print true if it’s Sunday and it’s raining.
+    b.  write a program to print true if it’s Sunday or it’s raining.
+    c.  write a program to print true if the given number is greater than 9 and less than a hundred.
+8.  write a program to print the average of three numbers.
+9.  write a program to check whether a given character is a digit or not, using the c type header file.
+10. write a program to check whether the person is an adult or not .using the ternary operator.
+11. write a program to print grades by entering marks from the user.
+12. write a program to check whether a given number is even or odd.
+13. Write a program to print weeks of the day by entering numbers between 1-7 use cases.
+14. write a program to check whether the given alphabet is in uppercase or lowercase.
+15. write a program to check whether the given number is natural or not.
+16. write a program to print hello world using for loop.
+17. write a program to print numbers 1-100 using for loop.
+18. write a program to print the sum of all even numbers and odd numbers from 1 to a.
+19. write a program to check whether the given number is a perfect number or not. E.g. – 6, 1+2+3=6. 20. write a program to print alphabets a to z.
+21. pattern generation using for loop.   
+    A.   12345
+         12345
+         12345 
+         12345
+         12345
+    b.   11111
+         22222
+         33333 
+         44444
+         55555 
+    c.   1 
+         12
+         123
+         1234 
+         12345
+    d.   1
+         22
+         333
+         4444
+         55555
+    e.  55555
+        4444
+        333       
+        22 
+        1
+21. write a program to print numbers from 1-10 using   ( while loop).
+22. write a program to find factorial of a number using
+        a. while loop
+        b. for loop
+        c. do while loop
+23. write a program to print numbers 1-10 using (do while loop).
+24. write a program to print the sum of first n natural numbers and also print them in reverse.
+25. write a program to print a table of a number input by the user.
+26. write a program to take even inputs from the user.  
+    Until the user inputs an odd number.
+27. write a program to take inputs from the user until the user inputs a number multiple of 7.
+28. write a program to print numbers 1-100 without printing numbers that are multiples of 3. (continue).
+29. write a program to print only odd numbers from 1-100.
+30. write a program to print the reverse of the table of n (taken by user).
+31. write a program to calculate the sum of numbers between 1-100 (including 1,100). 
+32. write a program to print hello world using function(). 
+33. write a function that prints namaste if Indian and bonjour if French and hello for others.
+34. write a program to print the reverse of the given number.
+35. write a program to print the palindrome of the given number. 
+36. write a program to check whether the given program is Armstrong or not.
+37. write a program to check whether the given numbers are amicable or not.
+38. Write a program to print the Fibonacci series.
+39. write a program to print the sum of two numbers using (function).
+40. write a program to print a table of the given number using (function).
+41. write a program to print price with 18% GST using (function). 
+42. write functions to calculate the area of the square and rectangle.
+43. write a program to print hello world n times using recursion.
+44. write a program to print the sum of n natural numbers using(recursion).
+45. write a program to print the factorial of n number using(recursion).
+46. write a function to convert Celsius to Fahrenheit.
+        F = (c * 9/5) + 32
+47. write a function to calculate the percentage of a student from marks in science, math & Sanskrit (in integer).
+48. write a function to print the n term of the Fibonacci series.
+49. write a program to print the value of A using pointer.
+50. write a program to print the value of A using pointer to pointer.
+51. write a program to print a number with one incrementation using (pointer).
+52. write a program to perform the addition of two numbers using (pointer).
+53. write a program to swap two numbers using (pointer).
+54. write a function to calculate the sum, product, and average of two numbers. print that averages in the main function…        
+55. write a program to find the maximum number between three numbers using (pointer).     
+56. write a program to print all the alphabet A-Z  using (pointer).       
+57. write a program to store 10 elements in an array and print it on screen.  
+58. write a program to enter the price of three items and print their final cost with GST.   
+59. write a program to add any 10 numbers using (array).
+60. write a program to enter 10 numbers and arrange them in ascending order.  
+61. write a program to print 10 numbers given by the user using a pointer and array.
+62. write a program to enter 2 students’ marks in three subjects using a(2d array).
+63. write a program to calculate the sum of odd numbers and even numbers using the array. 
+64. write a program to enter x students y subject marks using (2d) array.
+65. write a function to count the number of odd numbers in an array.
+66. write a function to reverse an array.
+67. write a program to store the first n Fibonacci series.
+68. create a 2d array, storing tables 2 & 3.
+69. In an array of numbers find how many times a number x occurs.
+70. write a program to print the largest number in an array.
+71. write a program to store the full name in a string.
+72. write a program to count the string length using(strlen).
+73. write a program to copy one string to another using(strcpy).
+74. write a program to concatenate two strings(two strings in one string) using(strcat).
+75. write a program to compare two strings using(strcmp).
+76. write a program to reverse the string using(strrev).
+77. write a program to print alphabets in strings in lower case using(strlwr).
+78. write a program to print alphabets in strings in uppercase using(strupr).
+79. write a program to enter string using char.
+80. find the salted form a password entered by the user if the salt is “123” and added at the end. 
+81. Write a function to count the occurrence of vowels in a string.
+82. check if a given character is present in a string or not.
+83. write a program to enter the student’s name, roll no., and cgpa using structures.
+84. write a program to enter the three students’ names, roll no., and cgpa using structures of arrays.
+85. write a program to enter the three students’ names, roll no., and cgpa using initializes structures.
+86. write a program to enter the three students’ names, roll no., and cgpa using initializes structures, pointers, and arrow operators.
+87. write a program to enter the student’s name, roll no., and cgpa using a function in structures.
+88. enter the address (house no, block, city, state) of 5 people using structures. 
+89. create a structure to store vectors then make a function to return the sum of two vectors.
+90. create a structure to store complex numbers (using the arrow operator).
+91. make a structure to store the bank account information (name, acc no.) of a customer of ABC bank and make an alias of it.
+92. create a file (text.txt) and opened that file through the program and read the characters.
+93. create a file (text1.txt) and open that file through the program and overwrite the characters.
+94. create a file (text2.txt) and open that file through the program and write the characters using append.
+95. make a program to read 5 integers from a file (integer.txt).
+96. make a program to input a student’s information and enter it into a file (student.txt).
+97. write a program to write all the odd numbers in a file (number.txt) from 1 to n.
+98. 2 numbers are already written in a file (sum.txt). Write a program to replace them with their sum.
+99. write a program to allocate memory to store 5 prices.
+100. allocate memory for 5 numbers then dynamically increase it to 8 numbers.
+
+
+
+
+
+
+
+
+
+
